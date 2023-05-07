@@ -377,7 +377,7 @@ header .dropdown-item:hover
     font-size: 30px;
     position: relative;
 }
-.mission-text h4::before
+/* .mission-text h4::before
 {
     content: "";
     width: 10%;
@@ -387,7 +387,7 @@ header .dropdown-item:hover
     left: 0;
     top: 50%;
     transform: translate(-5px);
-}
+} */
 .missions .mission-text p
 {
     font-size: 14px;
