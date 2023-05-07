@@ -377,17 +377,6 @@ header .dropdown-item:hover
     font-size: 30px;
     position: relative;
 }
-/* .mission-text h4::before
-{
-    content: "";
-    width: 10%;
-    height: 3px;
-    background-color: #ff2020;
-    position: absolute;
-    left: 0;
-    top: 50%;
-    transform: translate(-5px);
-} */
 .missions .mission-text p
 {
     font-size: 14px;
